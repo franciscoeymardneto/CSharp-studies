@@ -1,0 +1,14 @@
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ValidateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ValidateNumbers.AssemblyInfoInputs.cache
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ValidateNumbers.AssemblyInfo.cs
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ValidateNumbers.csproj.CoreCompileInputs.cache
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/bin/Debug/net7.0/ValidateNumbers
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/bin/Debug/net7.0/ValidateNumbers.deps.json
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/bin/Debug/net7.0/ValidateNumbers.runtimeconfig.json
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/bin/Debug/net7.0/ValidateNumbers.dll
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/bin/Debug/net7.0/ValidateNumbers.pdb
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ValidateNumbers.dll
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/refint/ValidateNumbers.dll
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ValidateNumbers.pdb
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ValidateNumbers.genruntimeconfig.cache
+/Users/franciscogomes/Documents/Studies/CSharp/ValidateNumbers/obj/Debug/net7.0/ref/ValidateNumbers.dll
