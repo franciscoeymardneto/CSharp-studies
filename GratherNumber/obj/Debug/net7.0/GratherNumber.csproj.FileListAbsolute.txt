@@ -1,0 +1,4 @@
+/Users/franciscogomes/Documents/Studies/CSharp/GratherNumber/obj/Debug/net7.0/GratherNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscogomes/Documents/Studies/CSharp/GratherNumber/obj/Debug/net7.0/GratherNumber.AssemblyInfoInputs.cache
+/Users/franciscogomes/Documents/Studies/CSharp/GratherNumber/obj/Debug/net7.0/GratherNumber.AssemblyInfo.cs
+/Users/franciscogomes/Documents/Studies/CSharp/GratherNumber/obj/Debug/net7.0/GratherNumber.csproj.CoreCompileInputs.cache
